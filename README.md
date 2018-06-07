@@ -42,3 +42,18 @@ return suma;
 1&0=0      1|0=1     1^0=1            ~0=1  
 1&1=1      1|1=1     1^1=0  
 0&0=0      0|0=0     0^0=0  
+
+
+## Matrices
+
+int *nombre de la matriz* [filas][columnas]={nº de elementos en orden de filas , , , }  
+                                           ={ {fial1,,},{fila n ,,} }  
+obtener un valor de una matriz --> *nombre matriz*[fila][columna]              
+
+
+## Pointers   
+int n =30;  
+printf("i%",n);--> 40
+printf("p%",&n);---> address in the memmory  
+
+

@@ -56,4 +56,5 @@ int n =30;
 printf("i%",n);--> 40
 printf("p%",&n);---> address in the memmory  
 
+<img width="561" alt="captura de pantalla 2018-06-07 a las 16 47 52" src="https://user-images.githubusercontent.com/39306637/41107397-90e59e6a-6a72-11e8-9679-cabb8592b4e3.png">
 
